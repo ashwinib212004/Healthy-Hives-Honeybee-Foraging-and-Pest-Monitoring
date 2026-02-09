@@ -1,0 +1,4 @@
+train: C:\\my_project\\dataset\\images\\train
+val: C:\\my_project\\dataset\\images\\val
+nc: 3
+names: ['foraging_bee','infected_bee','healthy_bee']
